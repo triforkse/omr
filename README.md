@@ -1,2 +1,1 @@
-# omr
-Open Music Recognition project
+# Open Music Recognition Project
