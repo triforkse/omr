@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 
 # brew install opencv3 --with-contrib --with-python3
 #
