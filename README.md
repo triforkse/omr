@@ -6,5 +6,6 @@ No longer needed and can be removed.
 
 ## Setup
 
-```pip3 install numpy scipy matplotlib opencv-python
+```
+pip3 install numpy scipy matplotlib opencv-python
 ```
